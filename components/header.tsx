@@ -46,7 +46,7 @@ export default function Header() {
         <div className="flex justify-between items-center py-4">
           {/* Logo */}
           <Link href="/" className="flex items-center space-x-3 group">
-            <img src="/electro-center-logo.png" alt="Electro-Center Logo" className="h-14 w-auto drop-shadow-md" />
+            <img src="/electro-center-logo.png" alt="Electro-Center Logo" className="h-14 w-auto drop-shadow-md" height:20px; />
           </Link>
 
           {/* Desktop Navigation */}
