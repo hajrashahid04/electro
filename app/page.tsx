@@ -8,7 +8,6 @@ export default function Home() {
     <div className="min-h-screen overflow-hidden">
       {/* Hero Section */}
       <section className="relative hero-gradient text-white py-20 min-h-[100vh] flex items-center">
-        <img src="https://images.unsplash.com/photo-1519389950473-47ba0277781c?auto=format&fit=crop&w=1200&q=80" alt="Tech Hero" className="absolute inset-0 w-full h-full object-cover object-center opacity-40 z-0 rounded-xl" style={{pointerEvents:'none'}} />
         <div className="absolute inset-0 bg-black opacity-20"></div>
 
         {/* Animated background elements */}
